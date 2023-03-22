@@ -1,3 +1,4 @@
 Bash
 Nano - docs
 vim - docs
+git - this one might be very helpful!!!
