@@ -1,0 +1,8 @@
+22/02/2023
+
+so, when we used ecdsa
+UTF-8 being the default encoding scheme did not pan out
+but ISO-8859-1 did
+Support for UTF-8 is overwhelming and ISO-8859-n is 
+out of favor, how come the specific use case i had 
+worked when I used ISO-8859-1 but not with UTF-8
