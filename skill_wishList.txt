@@ -4,3 +4,4 @@ vim - docs
 git - this one might be very helpful!!!
 
 merkle root DSA - in general and in deFis
+regex search
